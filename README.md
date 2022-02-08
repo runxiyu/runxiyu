@@ -8,4 +8,5 @@ Thank you.
 
 - [Deprecation Notice](https://andrewrunxiyu.github.io)
 - [Website](https://www.andrewyu.org)
-- [Projects](https://project.andrewyu.org)
+- [Websites](https://andrewyu.org)
+- [Projects](https://git.andrewyu.org)

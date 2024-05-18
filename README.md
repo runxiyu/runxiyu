@@ -1,3 +1,3 @@
 Hi! I'm Runxi Yu 于润熙, they/them/他.
 
-I don't use GitHub except for contributions and mirroring. My personal projects are on [my Git server](https://git.runxiyu.org/). I also have a [website](https://runxiyu.org), a [Mastodon account](https://social.treehouse.systems/@RunxiYu), and an [sr.ht account](https://sr.ht/~runxiyu)
+I use my GitHub account mainly for contributions. I do have repositories on here but they are mostly mirrors of repositories from [my Git server](https://git.runxiyu.org/) and [my sr.ht account](https://git.sr.ht/~runxiyu).

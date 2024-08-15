@@ -4,4 +4,4 @@ I use my GitHub account mainly for contributions. I do have repositories on here
 
 **Again, check [my sr.ht account](https://git.sr.ht/~runxiyu) for a complete list of stuff.**
 
-![Some top languages card thing](https://github-readme-stats.vercel.app/api/top-langs/?username=runxiyu)
+![Some top languages card thing](https://github-readme-stats.vercel.app/api/top-langs/?username=runxiyu&hide=html,text,markdown,roff)
